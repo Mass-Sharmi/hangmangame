@@ -1,2 +1,0 @@
-# hangmangame
-my first game 
